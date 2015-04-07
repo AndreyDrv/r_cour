@@ -17,3 +17,9 @@ Types of data:
 6) mechanistic analysis:
   -understand the exact changes in variables that lead to changes in other variables for individual objects
   -ex: physics: params changes
+
+
+* Make data sampling random
+* Do not mix observation params
+* TP,FP,TN,FN 
+* 
